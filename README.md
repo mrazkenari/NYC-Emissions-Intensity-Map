@@ -7,4 +7,4 @@ To reduce carbon emissions from buildings, the City of New York enacted [Local L
 
 >**Project Objective**: Calculate Emissions Intensity for buildings in New York City, and assess their compliance with Local Law 97.
 
-## [Live Dashboard](https://www.razkenari.com/NYC-EIM)
+#### Here is the link to the live dashboard: <a href="https://www.razkenari.com/nyc-eim" target="_blank">https://www.razkenari.com/nyc-eim</a>
